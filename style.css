@@ -2,15 +2,35 @@ body{
     color:white;
     background:black;
     margin:0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 header{
    
     padding:20px;
     font-size:32px;
     color:white;
+    border-bottom: solid 1px;
 }
 
 section{
-    background:rgb(1, 23, 51);
-    padding:10px 80px 80px 80px;
+    background:gray;
+    padding: 20px;
+    display:flex;
+    justify-content: left;
+}
+
+
+h1{
+    font-size:40px;
+}
+
+p{
+    font-size:20px;
+    margin-right: 20px;
+    margin-top:0px;
+}
+
+.segunda-section .terceira-section{
+    margin-top: 50px;
+    
 }
